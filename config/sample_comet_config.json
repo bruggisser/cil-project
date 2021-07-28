@@ -1,0 +1,5 @@
+{
+  "api_key": "YOUR_COMET_API_KEY",
+  "workspace": "YOUR_WORKSPACE_NAME",
+  "project_name": "YOUR_PROJECT_NAME"
+}
