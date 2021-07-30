@@ -11,6 +11,7 @@ class NaiveBayes(ModelType):
     """
 
     def __init__(self, config, logger, data_loader):
+        self.config = config
         self.dataLoader = data_loader
         x_train, x_val, y_train, y_val = self.dataLoader.get_training_validation_tweets()
 
