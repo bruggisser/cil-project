@@ -56,7 +56,7 @@ Rscript create_plots.R
 
 ### Models and output files
 The following models are available (with corresponding file prefixes in brackets): support vector machines (svm), 
-Naive Bayes (nb), convolutional neural network (cnn), Long short term memory (lstm) and bert. 
+naive bayes (nb), logistic regression (lr), convolutional neural network (cnn), long short term memory (lstm) and bert (bert). 
 
 - The results for kaggle are stored in the file `(modelname)_result.csv`.
 - The results are aggregated with one of the following approaches: vote, average (avg) and random forest (rf). 
