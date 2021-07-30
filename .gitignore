@@ -38,8 +38,5 @@ var/
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Ignore private variables
-config/config.json
-
 # PyCharm
 .idea/
